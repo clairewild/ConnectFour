@@ -22,4 +22,10 @@
   border: solid black 1px;
   margin: 20px;
   width: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.won {
+  margin-left: 30px;
 }

@@ -95,7 +95,7 @@ class Board extends React.Component {
       );
     });
 
-    const won = (this.state.won ? <h3>{ `${this.state.won} wins!` }</h3> : "")
+    const won = (this.state.won ? <h3 className="won">{ `${this.state.won} wins!` }</h3> : "")
 
     return (
       <div>
