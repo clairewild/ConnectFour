@@ -1,0 +1,25 @@
+.grid-square {
+  border: solid black 1px;
+  width: 30px;
+  height: 30px;
+  padding: 20px;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.reset-button {
+  padding: 10px;
+  border: solid black 1px;
+  margin: 20px;
+  width: 80px;
+}
